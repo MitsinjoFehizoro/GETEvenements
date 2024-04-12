@@ -1,0 +1,23 @@
+{
+  "name": "get_api",
+  "version": "1.0.0",
+  "description": "Api pour le get 2024",
+  "main": "app.js",
+  "scripts": {
+    "dev" : "nodemon app.js"
+  },
+  "author": "Mitsinjo Fehizoro",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3",
+    "jsonwebtoken": "^9.0.2",
+    "mariadb": "^3.2.3",
+    "sequelize": "^6.37.1",
+    "serve-favicon": "^2.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

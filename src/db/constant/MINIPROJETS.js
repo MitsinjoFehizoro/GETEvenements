@@ -1,0 +1,42 @@
+module.exports = [
+  {
+    id: 1,
+    title: "Mini-projet 1",
+    theme: "robotique1",
+    description: "Premier robot1",
+    image: "Mon image1",
+    vote_public: 2,
+  },
+  {
+    id: 2,
+    title: "Mini-projet 2",
+    theme: "robotique2",
+    description: "Premier robot2",
+    image: "Mon image2",
+    vote_public: 4,
+  },
+  {
+    id: 3,
+    title: "Mini-projet 3",
+    theme: "robotiqu3",
+    description: "Premier robot3",
+    image: "Mon imag3",
+    vote_public: 6,
+  },
+  {
+    id: 4,
+    title: "Mini-projet 4",
+    theme: "robotique",
+    description: "Premier robot 4",
+    image: "Mon image 4",
+    vote_public: 2,
+  },
+  {
+    id: 5,
+    title: "Mini-projet 5",
+    theme: "robotique 5",
+    description: "Premier robot 5",
+    image: "Mon image",
+    vote_public: 4,
+  },
+];
